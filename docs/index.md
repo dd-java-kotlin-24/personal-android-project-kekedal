@@ -49,11 +49,11 @@ finishing is not possible (different award levels for 1-4, 5-8, 9-12, and 13 or 
 remaining); and then there may be a time bonus if the player beats their prior time.
 
 Badges are awarded in the following levels:
-- Gold Star - the player has won the game and is awarded one Gold Star
-- Silver Star - the player is left with only 1-4 cards at end of game
-- Bronze Star - the player is left with 5-8 cards at end of game
-- Wood Star - the player is left with 9-12 cards at end of game
-- Lump o'Coal - the player is left with 13+ cards at end of game
+- Gold Star - the player has won the game and is awarded one Gold Star.
+- Silver Star - the player is left with only 1-4 cards at end of game.
+- Bronze Star - the player is left with 5-8 cards at end of game.
+- Wood Star - the player is left with 9-12 cards at end of game.
+- Lump o'Coal - the player is left with 13+ cards at end of game.
 
 ## Persistent data
 
