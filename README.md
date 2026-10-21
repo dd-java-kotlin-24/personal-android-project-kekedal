@@ -4,7 +4,7 @@
 
 ## Summary
 
-[//]: # A simple game in which a small set of cards is consistently displayed and a few 
+[//]: # A simple game in which a small set of cards is displayed and a very few 
 rules are utilized on a standard deck of playing cards with the goal being to discard 
 all cards.  The deck is shuffled to begin, four cards are dealt to the player, and the 
 top card has to correlate to the bottom card in the hand.  
