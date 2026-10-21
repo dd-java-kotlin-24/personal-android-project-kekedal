@@ -18,6 +18,11 @@ pull the last card to the front, and see how that plays, up to three times.
 After that, the deck is played out and the player has lost if any cards are left in their 
 hand.
 
+Scoring has only three parameters: finishing by way of discarding all the cards during 
+the course of the game, which is the only way to truly win; the amount of cards left if 
+finishing is not possible (different award levels for 1-4, 5-8, 9-12, and 13 or more cards
+remaining); and then there may be a time bonus if the player beats their prior time.
+
 ## Credits, copyrights, and license information
 
 [//]: # Code, build scripts, workflow definitions, and instructional content written 
