@@ -1,5 +1,5 @@
 ---
-title: Hand Solitaire
+title: Overview
 description: "Summary of in-progress or completed project."
 order: 0
 ---
@@ -55,17 +55,22 @@ Badges are awarded in the following levels:
 - Wood Star - the player is left with 9-12 cards at end of game.
 - Lump o'Coal - the player is left with 13+ cards at end of game.
 
+
 ## Persistent data
 
-[//]: # (TODO Using a bullet list, list what content will be maintained in server-side storage. This should include any information that users of your app would expect to be maintained &#40;i.e., without connection to a server&#41; across multiple sessions of use.)
+Player data, games won, times, badges, etc....
 
 ## Device/external services
 
-[//]: # (TODO If the client component will need to access special services of the client device &#40;e.g., sensors, contacts, messaging&#41;, list them here using a bullet list. Also, if the client component will need to access already-existing external services &#40;e.g., real-time weather data, Open Movie Database, Open Trivia Database&#41;, those should also be listed here.)
+MOMA API data, there are 9 freely available API's, and currently I am not sure of which ones 
+I would like to employ, but I know they would need to be used here.
 
 ## Stretch goals and possible enhancements 
 
-[//]: # (TODO If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.)
+There is a way to convert lumps o'coal or wood stars into metal stars, and that is by beating your
+best time!  Each time you beat your best time, you can opt to transform one badge up one level.  
+"Spending" your Gold stars will allow you to customize your cards and even the backgrounds with
+amazing artwork from the Museum of Metropolitan Art, even unlock a secret matching game!
 
 ## Credits, copyrights, and license information
 
