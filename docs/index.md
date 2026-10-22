@@ -30,8 +30,7 @@ pull the last card to the front, and see how that plays, up to three times.
 After that, the deck is played out and the player has lost if any cards are left in their 
 hand.
 
-
-
+  
 ## Intended users and user stories
 
 * Types of intended users are anyone with a few minutes to spare and an interest in cards that may 
@@ -57,8 +56,15 @@ Badges are awarded in the following levels:
 
 
 ## Persistent data
-
-Player data, games won, times, badges, etc....
+### Player data:
+* name
+* character
+* games won 
+* game played and cards remaining
+* individual game playing time
+* badges awarded
+* deck art collected
+* background art collected  
 
 ## Device/external services
 
