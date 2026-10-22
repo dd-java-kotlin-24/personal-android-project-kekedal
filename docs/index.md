@@ -73,21 +73,20 @@ I would like to employ, but I know they would need to be used here.
 
 ## Stretch goals and possible enhancements 
 
-Path to converting lumps ’o coal:  player having 2 or more lumps of coal could “turn them 
-in” for a chance (a wheel of chance would be invoked here) to land on a higher-level badge
-which is then associated with a “picture package” allowing the player to change the environment 
-in which they are playing.  If a player beats their best time OR has two or more lumps of coal,
+Stretch goals:
+Path to levelling up:  After two unsuccessful games, during which a player achieves badges according to the remaining cards in their hand (as listed above) they will be offered a chance on the “wheel of change”.  The player is given one spin at the cost of their lowest available badge.  The wheel is not without risk!  
 
-The player will be presented with an option of environments which 
-include card backs, background and music, that will apply at the beginning of the next game, 
-and the badge totals will be updated accordingly.  There will be a counter on the bottom of the 
-display that will let the player stay aware of their time, their badge totals, and their current 
-level (these can be adjusted in settings if the player prefers a more relaxed mode).
+Wheel of Change:  There are 8 slots on the wheel:  4 land on a (possibly) higher-level badge which is then associated with a “Picture Package” allowing the player to change the environment in which they are 
+playing. Two slots allow the player to “spin again” and the last two slots end the game immediately.  If a player beats their best-time, the “wheel of change” appears immediately, with the added bonus of the “game over” slots are replaced with two of the other game token slots, randomly.
+•	8 slots:
+o	4 Badge slots (1 each of Gold, Silver, Bronze and Wood)
+o	2 Spin-Again slots
+o	2 GAME OVER slots
 
-There is a way to convert lumps o'coal or wood stars into metal stars, and that is by beating your
-best time!  Each time you beat your best time, you can opt to transform one badge up one level.  
-"Spending" your Gold stars will allow you to customize your cards and even the backgrounds with
-amazing artwork from the Museum of Metropolitan Art, even unlock a secret matching game!
+•	Best-Time addendum: when a player beats their best time, the wheel appears immediately without the “Game Over” slots, which are replaced randomly by any of the other categories of slots.
+
+Picture Packages: The player will be presented with an initial standard environment which can only be changed and personalized as the player progresses. After either completing a Wheel of Change challenge successfully or winning a game, the player will have an option to alter their “Picture Package”.  The package will be derived from a few API sources, including the Museum of Metropolitan Art, to provide bothbackground images for the screen and card backs. These will be theme-clustered together as a packageand populate the screen together. They will be joined by another outside source of music that will be complementary to the images. Sound can always be turned off in settings OR opted for a native music source at the players discretion to play through the app instead.
+
 
 ## Credits, copyrights, and license information
 
