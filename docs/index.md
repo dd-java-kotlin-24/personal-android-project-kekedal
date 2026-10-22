@@ -73,6 +73,17 @@ I would like to employ, but I know they would need to be used here.
 
 ## Stretch goals and possible enhancements 
 
+Path to converting lumps ’o coal:  player having 2 or more lumps of coal could “turn them 
+in” for a chance (a wheel of chance would be invoked here) to land on a higher-level badge
+which is then associated with a “picture package” allowing the player to change the environment 
+in which they are playing.  If a player beats their best time OR has two or more lumps of coal,
+
+The player will be presented with an option of environments which 
+include card backs, background and music, that will apply at the beginning of the next game, 
+and the badge totals will be updated accordingly.  There will be a counter on the bottom of the 
+display that will let the player stay aware of their time, their badge totals, and their current 
+level (these can be adjusted in settings if the player prefers a more relaxed mode).
+
 There is a way to convert lumps o'coal or wood stars into metal stars, and that is by beating your
 best time!  Each time you beat your best time, you can opt to transform one badge up one level.  
 "Spending" your Gold stars will allow you to customize your cards and even the backgrounds with
